@@ -1,9 +1,9 @@
-# 🤖 Miniguia de Estudos: Arquitetura de Agentes de IA e Automação no n8n
+# Miniguia de Estudos: Arquitetura de Agentes de IA e Automação no n8n
 > Repositório desenvolvido para o Desafio de Projeto do Bootcamp Santander - Automação com n8n (DIO), utilizando o Google NotebookLM como ferramenta de aprendizagem ativa e pesquisa fundamentada.
 
 ---
 
-## 🎯 1. Contexto e Objetivos
+## 1. Contexto e Objetivos
 
 ### Contexto
 * **Tema escolhido:** Automação com n8n e Agentes de IA.
@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 2. Curadoria de Fontes
+## 2. Curadoria de Fontes
 
 Para alimentar o caderno no NotebookLM com autoridade técnica, foram selecionadas as seguintes fontes:
 
@@ -34,7 +34,7 @@ Para alimentar o caderno no NotebookLM com autoridade técnica, foram selecionad
 
 ---
 
-## 🛠️ 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+## 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
 ### Etapa 1: Pergunta Inicial (Abordagem Direta)
 * **Pergunta:**  
@@ -84,7 +84,7 @@ Para absorver o conteúdo técnico com máxima clareza e analogias práticas, es
 
 ---
 
-## 📘 4. Miniguia de Estudo (Entrega Consolidada)
+## 4. Miniguia de Estudo (Entrega Consolidada)
 
 ### 4.1 Resumo Estruturado da Arquitetura
 * **Nó Raiz (AI Agent):** Orquestra o raciocínio, limites (`Max Iterations`) e instruções mestras (`System Message`).
